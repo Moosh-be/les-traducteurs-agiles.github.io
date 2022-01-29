@@ -8,7 +8,7 @@ tags:
 - conduite du changement
 ---
 
-L'amélioration est toujours possible. La conviction est au coeur du système de transformation développé par la psychothérapeute familiale [Virginia Satir](http://en.wikipedia.org/wiki/Virginia_Satir). Son système aide les personnes à améliorer leurs vies en transformant la manière dont ils se perçoivent et s'expriment.
+L'amélioration est toujours possible. La conviction est au cœur du système de transformation développé par la psychothérapeute familiale [Virginia Satir](https://fr.wikipedia.org/wiki/Virginia_Satir). Son système aide les personnes à améliorer leurs vies en transformant la manière dont ils se perçoivent et s'expriment.
 
 Un élément du système Satir est le modèle du changement en 5 étapes (voir figure 1) décrivant les effets de chaque étape sur les sentiments, l'intellect, la performance et la physiologie. En utilisant les principes illustrés par ce modèle, vous pouvez améliorer la manière dont vous appréhendez le changement et y aider les autres.
 
@@ -25,7 +25,7 @@ Pour ce groupe, la règle explicite de ce chef à propos des échéances à resp
 
 Peu de communication est le symptôme d'un groupe dysfonctionnant. Les membres utilisent le rejet de la responsabilité sur autrui ou jouent l'apaisement, ou encore d'autres styles de communication incongrus pour faire face à des sentiments tels que la colère et la culpabilité. Le stress peut conduire à des symptômes physiques comme des maux de têtes ou des douleurs gastro-intestinales créant une augmentation inexplicable de l'absentéisme.
 
-Pris dans une toile de concepts dysfonctionnants, les membres, dont l'opinion compte le plus, sont inconscient du déséquilibre entre le groupe et son environnement. De nouvelles informations et concepts extérieurs au groupe peuvent ouvrir les membres vers la possibilité de l'amélioration.
+Pris dans une toile de concepts dysfonctionnant, les membres, dont l'opinion compte le plus, sont inconscient du déséquilibre entre le groupe et son environnement. De nouvelles informations et concepts extérieurs au groupe peuvent ouvrir les membres vers la possibilité de l'amélioration.
 
 ## Étape 2 : Résistance
 
@@ -41,11 +41,11 @@ Dans cette étape, les membres ont besoin d'aide pour s'ouvrir, prendre conscien
 
 Le groupe affronte l'inconnu. Les relations éclatent : de vieilles attentes peuvent devenir caduques, d'anciennes réactions cesser d'être effectives et d'anciens comportements ne plus être possibles.
 
-La perte de l'appartenance et de l'identité déclenchent anxiété et vulnérabilité. A l'occasion, ces sentiments engendrent des désordres nerveux, tels que tremblement, malaises, tics et éruptions cutanées. Les membres peuvent se comporter de manière inhabituelles, régressant vers des règles de survie de l'enfance. Par exemple, une entreprise de fabrication arrête le développement d'un nouveau produit majeur, réduit le nombre d'employés et se réorganise. Beaucoup d'employés restants perdent leur capacité de concentration la plus grande partie de la journée. Recherchant désespérément de nouveaux contacts offrant de l'espoir, les employés recherchent différents emplois. Le rendement et la qualité des produits baissent.
+La perte de l'appartenance et de l'identité déclenchent anxiété et vulnérabilité. A l'occasion, ces sentiments engendrent des désordres nerveux, tels que tremblement, malaises, tics et éruptions cutanées. Les membres peuvent se comporter de manière inhabituelle, régressant vers des règles de survie de l'enfance. Par exemple, une entreprise de fabrication arrête le développement d'un nouveau produit majeur, réduit le nombre d'employés et se réorganise. Beaucoup d'employés restants perdent leur capacité de concentration la plus grande partie de la journée. Recherchant désespérément de nouveaux contacts offrant de l'espoir, les employés recherchent différents emplois. Le rendement et la qualité des produits baissent.
 
-Les responsables de ces groupes chaotiques auraient dû prévoir que la performance dégringolerait durant cette étape. Jusqu'à ce que les membres acceptent cet élément extérieur, les membres ne s'investiront qu'à contrecoeur dans leurs relations les uns avec les autres. Le chaos est la période de la performance erratique reflétant la recherche d'une relation bénéfique avec l'élément extérieur.
+Les responsables de ces groupes chaotiques auraient dû prévoir que la performance dégringolerait durant cette étape. Jusqu'à ce que les membres acceptent cet élément extérieur, les membres ne s'investiront qu'à contrecœur dans leurs relations les uns avec les autres. Le chaos est la période de la performance erratique reflétant la recherche d'une relation bénéfique avec l'élément extérieur.
 
-Tous les membres durant cette étape ont besoin d'aide pour focaliser leurs sentiments, reconnaître leur peur, et utiliser leurs systèmes de soutien. L'encadrement a besoin d'une aide spécifique pour éviter toute tentative de court-circuiter cette étape avec des solutions magiques. L'étape du chaos est vital au processus de transformation.
+Tous les membres durant cette étape ont besoin d'aide pour focaliser leurs sentiments, reconnaître leur peur, et utiliser leurs systèmes de soutien. L'encadrement a besoin d'une aide spécifique pour éviter toute tentative de court-circuiter cette étape avec des solutions magiques. L'étape du chaos est vitale au processus de transformation.
 
 ## Étape 4 : Intégration
 
@@ -55,7 +55,7 @@ Par exemple, un groupe expérimenté en comptabilité doit s'adapter à un nouve
 
 La connaissance des nouvelles possibilités autorise la paternité de nouvelles règles qui engendre des réactions fonctionnelles, des attentes et des comportements. Les membres peuvent se sentir euphoriques et invincibles, l'idée de transformation étant si puissante qu'elle en devient la panacée.
 
-Les membres, à cette étape, ont besoin de plus de soutien qu'à première vue. Ils peuvent devenir frustrés lorsque les choses ne fonctionnent pas correctement du premier coup. Bien que les membres se sentent à l'aise, ils sont également effrayés que n'importe quelle transformation puisse disparaître mystérieusement, les coupant de leurs nouvelles relations et les plongeant à nouveau dans le chaos. Les membres ont besoin d'être rassuré et d'être aidé à trouver de nouvelle méthodes pour surmonter les difficultés.
+Les membres, à cette étape, ont besoin de plus de soutien qu'à première vue. Ils peuvent devenir frustrés lorsque les choses ne fonctionnent pas correctement du premier coup. Bien que les membres se sentent à l'aise, ils sont également effrayés que n'importe quelle transformation puisse disparaître mystérieusement, les coupant de leurs nouvelles relations et les plongeant à nouveau dans le chaos. Les membres ont besoin d'être rassuré et d'être aidé à trouver de nouvelles méthodes pour surmonter les difficultés.
 
 ## Étape 5 : Nouveau Status Quo
 
@@ -63,7 +63,7 @@ Si le changement est bien préparé et assimilé, le groupe et son environnement
 
 Un groupe sain est calme et alerte. Les membres ont une posture plus droite et une respiration plus profonde. Ils se sentent libres d'observer et de communiquer sur ce qui se passe vraiment. Un sens d'accomplissement et de possibilité imprègne l'atmosphère.
 
-A cette étape, les membres continuent d'avoir besoin de se sentir en sécurité afin qu'ils puissent avancer. Tous le monde, responsable et membres, a besoin de s'encourager les uns les autres pour continuer d'explorer les déséquilibres entre le groupe et son environnement afin qu'il y ait moins de résistance au changement.
+A cette étape, les membres continuent d'avoir besoin de se sentir en sécurité afin qu'ils puissent avancer. Tout le monde, responsable et membres, a besoin de s'encourager les uns les autres pour continuer d'explorer les déséquilibres entre le groupe et son environnement afin qu'il y ait moins de résistance au changement.
 
 J'ai observé des groupes, après plusieurs cycles de changement, devenir des organisations apprenantes, ils apprennent à surmonter le changement. Les membres de ces organisations ne se sentent ni menacés ni anxieux de ce type de situations auxquelles ils sont habitués à confronter l'élément extérieur. Au contraire, ces situations les excitent et les stimulent.
 
@@ -88,7 +88,7 @@ J'utilise ce modèle pour déterminer comment aider un groupe à faire une trans
 
 Tableau 1. Actions à chaque étape qui aideront le groupe à changer plus vite et plus efficacement.
 
-Les actions du tableau 1 aideront les gens à passer le cap. Certaines actions empêcheront et retarderont la capacité de l'organisation à réaliser ces changements profonds. Ces organisations résisteront à l'élément extérieur initiateur du changement. Mais les organisations qui créeront un environnement sécurisé où les gens sont encouragés à se surpasser et à passer le cap, accroîtront leur capacité au changement et seront davatange capables de répondre efficacement à n'importe quel défi qui se trouvera sur leur chemin.
+Les actions du tableau 1 aideront les gens à passer le cap. Certaines actions empêcheront et retarderont la capacité de l'organisation à réaliser ces changements profonds. Ces organisations résisteront à l'élément extérieur initiateur du changement. Mais les organisations qui créeront un environnement sécurisé où les gens sont encouragés à se surpasser et à passer le cap, accroîtront leur capacité au changement et seront davantage capables de répondre efficacement à n'importe quel défi qui se trouvera sur leur chemin.
 
 ## Bibliographie
 
