@@ -42,7 +42,7 @@ Un coach organisationnel se focalise généralement sur les éléments suivants 
 * L'adoption
 * La fixation des objectifs
 * La gestion d’un backlog d’améliorations organisationnelles
-* Le changements des pratiques de management pour passer d'un contrôle du travail quotidien à la montée en capacité/compétences
+* Les changements des pratiques de management pour passer d'un contrôle du travail quotidien à la montée en capacité/compétences
 * La gestion du travail : des backlogs produits et la manière dont l’organisation les utilisent
 * La gestion des interruptions
 * La gestion des pratiques des ressources humaines telles que les évaluations et la gestion de carrière
@@ -69,7 +69,7 @@ Un coach d’équipe se concentre généralement sur :
 
 Un coach technique se concentre généralement sur :
 
-* La découverte “d’éléments de code ou de conception qui sentent pas bon” et/ou de portions de codes ou de conceptions qui pourraient être améliorées.
+* La découverte “d’éléments de code ou de conception qui ne sentent pas bon” et/ou de portions de codes ou de conceptions qui pourraient être améliorées.
 * L’explication de ce qu’est un code “propre” et moderne, qui soit simple, facile à modifier et à maintenir
 * Le refactoring du "code qui ne sent pas bon" pour obtenir un code propre
 * L’écriture de tests unitaires
