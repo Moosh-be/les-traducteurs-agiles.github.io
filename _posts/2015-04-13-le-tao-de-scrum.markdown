@@ -27,7 +27,7 @@ Finalement, quand nous voyons les résultats clairement, il nous incombe de fair
 
     Le Product Owner décide du 'quoi' de la Voie.
 
-Avec une seule personne qui prend les décisions sur quoi travailler (et pourquoi), les équipes sont capables de s'en éloigner et très vite. Avec l'inspection, chacun voit si ces décisions sur le 'quoi' fonctionnent vraiment. Il est probable que le Product Owner aime ou déteste cette disposition. C'est merveilleux d'être  le conducteur, si nous savons où nous voulons aller et que nous sommes capables de nous adapter rapidement aux retours d'informations. D'un autre côté, si notre succès est dû à des manoeuvres autour de la responsabilité (des uns et des autres - NdT), ce sera un triste chemin à l'issu duquel nous trouverons probablement l'échec.
+Avec une seule personne qui prend les décisions sur quoi travailler (et pourquoi), les équipes sont capables de s'en éloigner et très vite. Avec l'inspection, chacun voit si ces décisions sur le 'quoi' fonctionnent vraiment. Il est probable que le Product Owner aime ou déteste cette disposition. C'est merveilleux d'être  le conducteur, si nous savons où nous voulons aller et que nous sommes capables de nous adapter rapidement aux retours d'informations. D'un autre côté, si notre succès est dû à des manœuvres autour de la responsabilité (des uns et des autres - NdT), ce sera un triste chemin à l'issu duquel nous trouverons probablement l'échec.
 
     L'Équipe décide du 'comment' et de la 'quantité' de la Voie.
 
@@ -39,22 +39,22 @@ Fondamentalement, le Scrum Master doit servir la Voie elle-même. Pour Scrum, la
 
 ## Le Tao des Évènements
 
-    Le planning de livraison défini ce que le utilisateurs de la Voie trouverons de
-    valeur et à quel moment.
+    Le planning de livraison défini ce que les utilisateurs de la Voie trouverons de
+    la valeur et à quel moment.
 
 Le Planning de Livraison peut nous rappeler l'ancien temps où l'encadrement nous demandait des dates (et des engagements) que nous ne pouvions donner, ou respecter. Il peut être tentant d'esquiver le Planning de Livraison, tout spécialement pour une nouvelle équipe. Mais avoir une vision vers où nous allons, nous donne confiance, et nous aide à savoir quand nous nous sommes égarés. Il n'est pas uniquement question de dates (même si tout le monde en veut) dans Le Planning de Livraison, il s'agit de séquence et de taille. Il serait plus pertinent que le Planning de Livraison soit fait pendant le premier Sprint, une fois que nous aurons eu l'opportunité d'agir ensemble, et collectivement en tant qu'équipe.
 
     Les Sprints sont la Voie de l'Équipe, et ne varient pas en longueur.
 
-Les Sprints sont les battements de coeur de l'Équipe. Ils donnent le rythme et la structure sur lesquelles les rituels peuvent se tenir, des rituels qu'une équipe a besoin en tant que système humain. Le cycle de Sprint donne un début et une fin, créant un environnement familier, confortable qui nous rappellent où nous sommes, où nous allons, et comment nous pouvons faire mieux la prochaine fois. Avec le temps, le Sprint peut être plus court, mais ne le laissez pas être plus long.
+Les Sprints sont les battements de cœur de l'Équipe. Ils donnent le rythme et la structure sur lesquelles les rituels peuvent se tenir, des rituels qu'une équipe a besoin en tant que système humain. Le cycle de Sprint donne un début et une fin, créant un environnement familier, confortable qui nous rappellent où nous sommes, où nous allons, et comment nous pouvons faire mieux la prochaine fois. Avec le temps, le Sprint peut être plus court, mais ne le laissez pas être plus long.
 
     Le Planning de Sprint définit la Voie pour cette semaine, et la prochaine.
 
-Le Planning de Sprint commence le cycle. Il indique que c'est un nouveau jour, que nous pouvons tout faire, ensemble. Il laisse le client métier raconter sa story et l'équipe poser ses questions. Il donne à l'équipe ses ordres de marche, et au Product Owner, un espoir pour un futur immédiat. C'est le rituel central de la communauté du projet, avec la Revue de Sprint. Il devrait être ajusté pour être à l'image de la communauté, avec de la nourriture, de la musique ou n'importe quoi d'autre qui puisse mettre du liant et du baume au coeur.
+Le Planning de Sprint commence le cycle. Il indique que c'est un nouveau jour, que nous pouvons tout faire, ensemble. Il laisse le client métier raconter sa story et l'équipe poser ses questions. Il donne à l'équipe ses ordres de marche, et au Product Owner, un espoir pour un futur immédiat. C'est le rituel central de la communauté du projet, avec la Revue de Sprint. Il devrait être ajusté pour être à l'image de la communauté, avec de la nourriture, de la musique ou n'importe quoi d'autre qui puisse mettre du liant et du baume au cœur.
 
     Le Standup Quotidien aide l'équipe à s'Adapter à la Voie, pour aujourd'hui.
 
-Le standup est le moment où la responsabilité à l'intérieur de l'équipe prend corps. Ceux qui sont embarrassés pour demander assistance resteront bloqués sur la même tâche, jour après jour, tout en déclarant 'pas de problèmes'. Certains resteront vagues lors de leur déclaration sur ce qu'ils vont faire aujourd'hui, incertains d'eux-mêmes et de leur propre capacité d'assistance. Pour d'autres, le standup est la célébration de comment ils travaillent bien ensemble et du progrès qu'ils ont fait en tant qu'équipe. Si tout le monde n'apprend pas quelque chose pendant le standup, il y a soit un manque d'écoute réel, soit l'équipe agit et parle seulement comme un automate. Peut-être y-a t'il un manque de confiance ?  
+Le standup est le moment où la responsabilité à l'intérieur de l'équipe prend corps. Ceux qui sont embarrassés pour demander assistance resteront bloqués sur la même tâche, jour après jour, tout en déclarant 'pas de problèmes'. Certains resteront vagues lors de leur déclaration sur ce qu'ils vont faire aujourd'hui, incertains d'eux-mêmes et de leur propre capacité d'assistance. Pour d'autres, le standup est la célébration de comment ils travaillent bien ensemble et du progrès qu'ils ont fait en tant qu'équipe. Si tout le monde n'apprend pas quelque chose pendant le standup, il y a soit un manque d'écoute réel, soit l'équipe agit et parle seulement comme un automate. Peut-être y a-t-il un manque de confiance ?  
 
     La Revue de Sprint aide les utilisateurs de la Voie à Inspecter ce qui a été fait
     dans cet intervalle de deux semaines.`
@@ -64,7 +64,7 @@ Revenons à l'inspection. La Revue de Sprint est l'occasion pour la communauté 
     La Rétrospective aide l'équipe à décider de la Voie à suivre, en Inspectant
     la Voie qui vient de s'achever.
 
-La Revue de Sprint est à la communauté du projet ce que la Rétrospective est à l'équipe : elle est leur processus d'inspection (et d'introspection). Est-ce qu'elle s'est améliorer à ce Sprint ? A t'elle accompli tout ce qu'elle pouvait en tant qu'équipe ? A t'elle pris plaisir et s'est-elle sentie relaxée ? Où est son apogée ? Et comment peut-elle le dépasser ?
+La Revue de Sprint est à la communauté du projet ce que la Rétrospective est à l'équipe : elle est leur processus d'inspection (et d'introspection). Est-ce qu'elle s'est améliorer à ce Sprint ? A-t-elle accompli tout ce qu'elle pouvait en tant qu'équipe ? A- t-elle pris plaisir et s'est-elle sentie relaxée ? Où est son apogée ? Et comment peut-elle le dépasser ?
 
 ## Le Tao des Choses
 
