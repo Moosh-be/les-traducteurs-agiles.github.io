@@ -29,15 +29,15 @@ Ce n’est la faute de personne. C’est le système.
 
 ## Définir une culture
 
-Edgar Schein définit la culture comme étant la manière dont les personnes se traitent les unes les autres, le sujets sur lesquels les gens peuvent discuter, et comment l’organisation récompense les gens.
+Edgar Schein définit la culture comme étant la manière dont les personnes se traitent les unes les autres, les sujets sur lesquels les gens peuvent discuter, et comment l’organisation récompense les gens.
 
 Si vous avez un système comme celui décrit précédemment, les responsables pensent souvent comme s’ils devaient récompenser les héros, et non la collaboration. Ce type d’action renforce le travail individuel sous la forme d’expertise individuelle, c’est-à-dire davantage d’efficience au niveau des ressources et non d’efficience au niveau du flux ou autrement dit de la collaboration.
 
-Le système créé la culture et la culture renforce le système. Vous n’avez peut être pas ce genre de problèmes. Vous en avez peut être d’autres.
+Le système créé la culture et la culture renforce le système. Vous n’avez peut-être pas ce genre de problèmes. Vous en avez peut-être d’autres.
 
 Dire “récompenser l’efficience du flux” ou “demander aux gens de collaborer” pourrait aider certaines petites parties du système et de la culture. Toutefois, cela reste insuffisant. C’est pourquoi [Pratiquer le changement](http://www.les-traducteurs-agiles.org/2018/04/09-transformation-agile-pratiquer-le-changement.html) et [Savoir pourquoi](http://www.les-traducteurs-agiles.org/2018/04/05/transformation-agile-pourquoi.html) font partie d’une transformation agile.
 
-Une fois que vous aurez perçu votre système et votre culture, vous pouvez commencez avec de petites expériences sans risques pour vous créer des alliés et transformer votre organisation.
+Une fois que vous aurez perçu votre système et votre culture, vous pouvez commencer avec de petites expériences sans risques pour vous créer des alliés et transformer votre organisation.
 
 
 [^1]: traduction à venir :)
